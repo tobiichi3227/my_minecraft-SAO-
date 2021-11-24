@@ -11,3 +11,5 @@
 [同上_挖掘](https://zhuanlan.zhihu.com/p/30275469)
 
 [OpenGL教學](http://www.opengl-tutorial.org/cn/)
+
+[噪聲演算法 Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise)
