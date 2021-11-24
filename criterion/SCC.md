@@ -23,4 +23,4 @@
 以下詳列所有能夠簡寫之單詞：
 
 - init (initial)
-- 
+- SAO(Sword Art Online)
