@@ -13,7 +13,10 @@
 3. 註明規則：
 	1. 原則上，複雜運算、函數、類別盡量在其上方加上其使用功能與方法
 
-4. 針對tobiichi3227的特例﹔
+4. 取名
+	1. 在 class 中 private 的變數前面加上 "_"
+
+5. 針對tobiichi3227的特例﹔
 	1. 不要整天想著優化
 	2. 不要整天SAO
 	3. 不要整天整一些奇怪的東西
@@ -23,4 +26,5 @@
 以下詳列所有能夠簡寫之單詞：
 
 - init (initial)
-- SAO(Sword Art Online)
+- cnt (count)
+- SAO (Sword Art Online)
