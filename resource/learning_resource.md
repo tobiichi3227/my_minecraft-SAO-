@@ -13,3 +13,5 @@
 [OpenGL教學](http://www.opengl-tutorial.org/cn/)
 
 [噪聲演算法 Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise)
+
+[噪聲演算法 改良Pein noise](https://www.cnblogs.com/leoin2012/p/7218033.html)
