@@ -1,4 +1,4 @@
-# Some learning resources
+# Base Technology Learning
 
 [HexMap](https://zhuanlan.zhihu.com/p/54640839) 
 
