@@ -33,10 +33,10 @@ namespace std
 
 	Vector3D Vector3D::operator+(const Vector3D &_ref)
 	{
-		int i = this->_x + _ref.getX();
-		int j = this->_y + _ref.getY();
-		int k = this->_z + _ref.getZ();
-		return Vector3D(i, j, k);
+		int x0 = this->_x + _ref.getX();
+		int y0 = this->_y + _ref.getY();
+		int z0 = this->_z + _ref.getZ();
+		return Vector3D(x0, y0, z0);
 	}
 
 	Vector3D Vector3D::operator-(const Vector3D &_ref)
