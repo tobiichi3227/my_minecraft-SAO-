@@ -6,7 +6,7 @@
 
 [噪聲演算法 Perlin noise](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise/a/perlin-noise)
 
-[噪聲演算法 改良Pein noise](https://www.cnblogs.com/leoin2012/p/7218033.html)
+[Understanding Perlin noise](https://adrianb.io/2014/08/09/perlinnoise.html)
 
 [1.13世界生成原理](https://yaossg.com/blog/1-13-worldgen/)
 
