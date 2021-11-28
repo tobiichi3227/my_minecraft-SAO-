@@ -29,3 +29,7 @@
 - cnt (count)
 - SAO (Sword Art Online)
 - ref (reference)
+- pt (point)
+- temp/tmp (temporary)
+- arg (argument)
+- Ty (type)
